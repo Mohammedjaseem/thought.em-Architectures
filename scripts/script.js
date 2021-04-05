@@ -37,15 +37,15 @@ window.onload = function() {
     }));
 
     contactTypes[0].addEventListener('click', (e => {
-        openHyperLink("https://github.com/azwisec")
+        openHyperLink("https://instagram.com/thought.em_")
     }))
 
     contactTypes[1].addEventListener('click', (e => {
-        openHyperLink("https://www.linkedin.com/in/aswin-govind/")
+        openHyperLink("https://m.facebook.com/thoughtem-123023635758672/")
     }))
 
     contactTypes[2].addEventListener('click', (e => {
-        openHyperLink("https://www.youtube.com/channel/UC64GIql8xII3fDTF1GVtEWA")
+        openHyperLink("https://www.youtube.com/channel/UCB-oZvVnCoFym-oYhnYw_gw")
     }))
 
     function openHyperLink(link) {
